@@ -4,4 +4,4 @@ scheduler_output for storing & publishing output combination with their respecti
 
 These both are connected with postgresql database.
 
-this contains four main folders called model,controller,service and repository for ensuring the flow from client to controller then controller to service where business lgic are being written and service to repo and finally repository to database
+this contains four main folders called model,controller,service and repository for ensuring the flow from client to controller then controller to service where business logics are being written and service to repo and finally repository to database
